@@ -1,0 +1,6 @@
+if SHIELD_TELECOMMANDE
+
+config ZMK_KEYBOARD_NAME
+    default "Telecommande"
+
+endif
